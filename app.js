@@ -5,5 +5,5 @@ if (name = joebiden) = true {
 }
     console.log("I am not Joe Biden");
 }
-    console.log("Who am I?");
-};
+    console.log("I am not Joe Biden")
+}
